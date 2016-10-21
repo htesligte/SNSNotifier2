@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true"
+    android:stretchColumns="*"
+    android:id="@+id/NotificationTable"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/dateLabel"
+            android:text="Datum"
+            />
+        <TextView
+            android:id="@+id/typeLabel"
+            android:text="Type"
+            />
+        <TextView
+            android:id="@+id/processedLabel"
+            android:text="Processed"
+            />
+        <TextView
+            android:id="@+id/messageLabel"
+            android:text="Bericht"
+            />
+    </TableRow>
+</TableLayout>

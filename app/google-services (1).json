@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "876822627933",
+    "firebase_url": "https://comsi-sns-2.firebaseio.com",
+    "project_id": "comsi-sns-2",
+    "storage_bucket": "comsi-sns-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876822627933:android:11f8c7a9dac809f7",
+        "android_client_info": {
+          "package_name": "nl.comsi.snsnotifier2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876822627933-im93lo7dmvfkt8la0p44sdc26e2h0utj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_Zo_YSqcD_mrPED0BXxrr6SbxTu9rfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
